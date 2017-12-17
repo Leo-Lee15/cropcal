@@ -1,5 +1,6 @@
-#Shiny app to visualize cropping calendar using open data
+# Shiny app to visualize cropping calendar using open data
 # github: https://github.com/asheshwor/cropcal
+
 require(shiny)
 require(shinydashboard)
 require(dplyr)
